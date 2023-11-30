@@ -1,0 +1,559 @@
+# depslib dependency file v1.0
+1700765989 source:c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\_persona.cpp
+	<iostream>
+	<cstring>
+	<limits>
+	"persona.h"
+	"fecha.h"
+
+1700762000 source:c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\fecha.cpp
+	<iostream>
+	<limits>
+	"fecha.h"
+
+1700749526 source:c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\hora.cpp
+	<iostream>
+	<limits>
+	"hora.h"
+
+1700771019 source:c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\main.cpp
+	<iostream>
+	<cstring>
+	<windows.h>
+	<limits>
+	"altaTu_Me.h"
+	"subListas.h"
+	"subMenuBaja.h"
+	"subMenuModificar.h"
+	"consulta.h"
+	"subMenuReporte.h"
+
+1700099378 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\paciente.h
+	"persona.h"
+	"turno.h"
+
+1697207211 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\paciente.cpp
+	"persona.h"
+	"turno.h"
+	"especialista.h"
+
+1699993035 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\persona.h
+	"fecha.h"
+
+1697207404 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\_persona.cpp
+
+1700089673 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\turno.h
+	"hora.h"
+	"fecha.h"
+
+1697208232 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\turno.cpp
+	"hora.h"
+	"fecha.h"
+
+1697825389 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\hora.h
+
+1697824599 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\hora.cpp
+
+1697828261 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\fecha.h
+
+1697211291 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\fecha.cpp
+
+1700064330 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\especialista.h
+	"persona.h"
+
+1697085038 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\especialista.cpp
+	"turno.h"
+
+1700777581 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\archivocontroladores.h
+	"paciente.h"
+	<iomanip>
+	"rlutil.h"
+
+1700770124 source:c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\especialista.cpp
+	<iostream>
+	<cstring>
+	<limits>
+	"especialista.h"
+
+1700776568 source:c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\paciente.cpp
+	<iostream>
+	<cstring>
+	<limits>
+	<iomanip>
+	"rlutil.h"
+	"paciente.h"
+	"archivoClassPacientess.h"
+	"especialista.h"
+	"archivoClassEspecialista.h"
+
+1700769779 source:c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\turno.cpp
+	<iostream>
+	<cstring>
+	"turno.h"
+	"paciente.h"
+	"archivoClassPacientess.h"
+	"especialista.h"
+	"archivoClassEspecialista.h"
+
+1571584339 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1700772043 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\listadoscontroladores.h
+	"archivoClassPacientess.h"
+	"paciente.h"
+
+1699991909 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\archivoclasspacientess.h
+
+1700775532 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\sublistas.h
+	"listadosControladores.h"
+	"listadosControlaTurno2.h"
+
+1700742934 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\altatu_me.h
+	"archivoControladores.h"
+	"archivoControladoresEspecialista.h"
+
+1700060113 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\archivocontroladoresespecialista.h
+	"especialista.h"
+
+1700328793 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\listadoscontrolaturno2.h
+	"archivoClassEspecialista.h"
+	"especialista.h"
+	"archivoClassPacientess.h"
+	"paciente.h"
+
+1700005808 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\archivoclassespecialista.h
+
+1700743094 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\submenubaja.h
+	"archivoControladores.h"
+	"archivoControladoresEspecialista.h"
+
+1700743215 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\submenumodificar.h
+	"archivoControladores.h"
+	"archivoControladoresEspecialista.h"
+
+1700742628 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\consulta.h
+	"listadosControlaTurno2.h"
+
+1700743557 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\submenureporte.h
+	"reporteControladores.h"
+
+1700337548 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\reportecontroladores.h
+	"archivoClassEspecialista.h"
+	"especialista.h"
+	"archivoClassPacientess.h"
+	"paciente.h"
+
+1700765989 source:c:\users\pedro\downloads\sistemaclinica\_persona.cpp
+	<iostream>
+	<cstring>
+	<limits>
+	"persona.h"
+	"fecha.h"
+
+1699993035 c:\users\pedro\downloads\sistemaclinica\persona.h
+	"fecha.h"
+
+1697828261 c:\users\pedro\downloads\sistemaclinica\fecha.h
+
+1700770124 source:c:\users\pedro\downloads\sistemaclinica\especialista.cpp
+	<iostream>
+	<cstring>
+	<limits>
+	"especialista.h"
+
+1700064330 c:\users\pedro\downloads\sistemaclinica\especialista.h
+	"persona.h"
+
+1700762000 source:c:\users\pedro\downloads\sistemaclinica\fecha.cpp
+	<iostream>
+	<limits>
+	"fecha.h"
+
+1700749526 source:c:\users\pedro\downloads\sistemaclinica\hora.cpp
+	<iostream>
+	<limits>
+	"hora.h"
+
+1697825389 c:\users\pedro\downloads\sistemaclinica\hora.h
+
+1700777730 source:c:\users\pedro\downloads\sistemaclinica\main.cpp
+	<iostream>
+	<cstring>
+	<windows.h>
+	<limits>
+	"rlutil.h"
+	"altaTu_Me.h"
+	"subListas.h"
+	"subMenuBaja.h"
+	"subMenuModificar.h"
+	"consulta.h"
+	"subMenuReporte.h"
+
+1571584339 c:\users\pedro\downloads\sistemaclinica\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1700742934 c:\users\pedro\downloads\sistemaclinica\altatu_me.h
+	"archivoControladores.h"
+	"archivoControladoresEspecialista.h"
+
+1700777581 c:\users\pedro\downloads\sistemaclinica\archivocontroladores.h
+	"paciente.h"
+	<iomanip>
+	"rlutil.h"
+
+1700099378 c:\users\pedro\downloads\sistemaclinica\paciente.h
+	"persona.h"
+	"turno.h"
+
+1700089673 c:\users\pedro\downloads\sistemaclinica\turno.h
+	"hora.h"
+	"fecha.h"
+
+1700060113 c:\users\pedro\downloads\sistemaclinica\archivocontroladoresespecialista.h
+	"especialista.h"
+
+1700775532 c:\users\pedro\downloads\sistemaclinica\sublistas.h
+	"listadosControladores.h"
+	"listadosControlaTurno2.h"
+
+1700772043 c:\users\pedro\downloads\sistemaclinica\listadoscontroladores.h
+	"archivoClassPacientess.h"
+	"paciente.h"
+
+1699991909 c:\users\pedro\downloads\sistemaclinica\archivoclasspacientess.h
+
+1700328793 c:\users\pedro\downloads\sistemaclinica\listadoscontrolaturno2.h
+	"archivoClassEspecialista.h"
+	"especialista.h"
+	"archivoClassPacientess.h"
+	"paciente.h"
+
+1700005808 c:\users\pedro\downloads\sistemaclinica\archivoclassespecialista.h
+
+1700743094 c:\users\pedro\downloads\sistemaclinica\submenubaja.h
+	"archivoControladores.h"
+	"archivoControladoresEspecialista.h"
+
+1700743215 c:\users\pedro\downloads\sistemaclinica\submenumodificar.h
+	"archivoControladores.h"
+	"archivoControladoresEspecialista.h"
+
+1700742628 c:\users\pedro\downloads\sistemaclinica\consulta.h
+	"listadosControlaTurno2.h"
+
+1700743557 c:\users\pedro\downloads\sistemaclinica\submenureporte.h
+	"reporteControladores.h"
+
+1700337548 c:\users\pedro\downloads\sistemaclinica\reportecontroladores.h
+	"archivoClassEspecialista.h"
+	"especialista.h"
+	"archivoClassPacientess.h"
+	"paciente.h"
+
+1700769779 source:c:\users\pedro\downloads\sistemaclinica\turno.cpp
+	<iostream>
+	<cstring>
+	"turno.h"
+	"paciente.h"
+	"archivoClassPacientess.h"
+	"especialista.h"
+	"archivoClassEspecialista.h"
+
+1700927839 source:c:\users\pedro\downloads\sistema clinica\sistemaclinica - final\_persona.cpp
+	<iostream>
+	<cstring>
+	<limits>
+	"persona.h"
+	"fecha.h"
+
+1699993035 c:\users\pedro\downloads\sistema clinica\sistemaclinica - final\persona.h
+	"fecha.h"
+
+1697828261 c:\users\pedro\downloads\sistema clinica\sistemaclinica - final\fecha.h
+
+1700928549 source:c:\users\pedro\downloads\sistema clinica\sistemaclinica - final\especialista.cpp
+	<iostream>
+	<cstring>
+	<limits>
+	"especialista.h"
+
+1700064330 c:\users\pedro\downloads\sistema clinica\sistemaclinica - final\especialista.h
+	"persona.h"
+
+1700762000 source:c:\users\pedro\downloads\sistema clinica\sistemaclinica - final\fecha.cpp
+	<iostream>
+	<limits>
+	"fecha.h"
+
+1700749526 source:c:\users\pedro\downloads\sistema clinica\sistemaclinica - final\hora.cpp
+	<iostream>
+	<limits>
+	"hora.h"
+
+1697825389 c:\users\pedro\downloads\sistema clinica\sistemaclinica - final\hora.h
+
+1700866124 source:c:\users\pedro\downloads\sistema clinica\sistemaclinica - final\main.cpp
+	<iostream>
+	<cstring>
+	<windows.h>
+	<limits>
+	"rlutil.h"
+	"altaTu_Me.h"
+	"subListas.h"
+	"subMenuBaja.h"
+	"subMenuModificar.h"
+	"consulta.h"
+	"subMenuReporte.h"
+
+1571584339 c:\users\pedro\downloads\sistema clinica\sistemaclinica - final\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1700742934 c:\users\pedro\downloads\sistema clinica\sistemaclinica - final\altatu_me.h
+	"archivoControladores.h"
+	"archivoControladoresEspecialista.h"
+
+1700777581 c:\users\pedro\downloads\sistema clinica\sistemaclinica - final\archivocontroladores.h
+	"paciente.h"
+	<iomanip>
+	"rlutil.h"
+
+1700099378 c:\users\pedro\downloads\sistema clinica\sistemaclinica - final\paciente.h
+	"persona.h"
+	"turno.h"
+
+1700089673 c:\users\pedro\downloads\sistema clinica\sistemaclinica - final\turno.h
+	"hora.h"
+	"fecha.h"
+
+1700930764 c:\users\pedro\downloads\sistema clinica\sistemaclinica - final\archivocontroladoresespecialista.h
+	"especialista.h"
+
+1700775532 c:\users\pedro\downloads\sistema clinica\sistemaclinica - final\sublistas.h
+	"listadosControladores.h"
+	"listadosControlaTurno2.h"
+
+1700772043 c:\users\pedro\downloads\sistema clinica\sistemaclinica - final\listadoscontroladores.h
+	"archivoClassPacientess.h"
+	"paciente.h"
+
+1699991909 c:\users\pedro\downloads\sistema clinica\sistemaclinica - final\archivoclasspacientess.h
+
+1700928548 c:\users\pedro\downloads\sistema clinica\sistemaclinica - final\listadoscontrolaturno2.h
+	"archivoClassEspecialista.h"
+	"especialista.h"
+	"archivoClassPacientess.h"
+	"paciente.h"
+
+1700005808 c:\users\pedro\downloads\sistema clinica\sistemaclinica - final\archivoclassespecialista.h
+
+1700743094 c:\users\pedro\downloads\sistema clinica\sistemaclinica - final\submenubaja.h
+	"archivoControladores.h"
+	"archivoControladoresEspecialista.h"
+
+1700743215 c:\users\pedro\downloads\sistema clinica\sistemaclinica - final\submenumodificar.h
+	"archivoControladores.h"
+	"archivoControladoresEspecialista.h"
+
+1700742628 c:\users\pedro\downloads\sistema clinica\sistemaclinica - final\consulta.h
+	"listadosControlaTurno2.h"
+
+1700743557 c:\users\pedro\downloads\sistema clinica\sistemaclinica - final\submenureporte.h
+	"reporteControladores.h"
+
+1700337548 c:\users\pedro\downloads\sistema clinica\sistemaclinica - final\reportecontroladores.h
+	"archivoClassEspecialista.h"
+	"especialista.h"
+	"archivoClassPacientess.h"
+	"paciente.h"
+
+1700777939 source:c:\users\pedro\downloads\sistema clinica\sistemaclinica - final\paciente.cpp
+	<iostream>
+	<cstring>
+	<limits>
+	<iomanip>
+	"rlutil.h"
+	"paciente.h"
+	"archivoClassPacientess.h"
+	"especialista.h"
+	"archivoClassEspecialista.h"
+
+1700769779 source:c:\users\pedro\downloads\sistema clinica\sistemaclinica - final\turno.cpp
+	<iostream>
+	<cstring>
+	"turno.h"
+	"paciente.h"
+	"archivoClassPacientess.h"
+	"especialista.h"
+	"archivoClassEspecialista.h"
+
+1700927839 source:c:\users\pedro\downloads\+\sistema clinica\sistemaclinica - final\_persona.cpp
+	<iostream>
+	<cstring>
+	<limits>
+	"persona.h"
+	"fecha.h"
+
+1699993035 c:\users\pedro\downloads\+\sistema clinica\sistemaclinica - final\persona.h
+	"fecha.h"
+
+1697828261 c:\users\pedro\downloads\+\sistema clinica\sistemaclinica - final\fecha.h
+
+1700928549 source:c:\users\pedro\downloads\+\sistema clinica\sistemaclinica - final\especialista.cpp
+	<iostream>
+	<cstring>
+	<limits>
+	"especialista.h"
+
+1700064330 c:\users\pedro\downloads\+\sistema clinica\sistemaclinica - final\especialista.h
+	"persona.h"
+
+1700762000 source:c:\users\pedro\downloads\+\sistema clinica\sistemaclinica - final\fecha.cpp
+	<iostream>
+	<limits>
+	"fecha.h"
+
+1700749526 source:c:\users\pedro\downloads\+\sistema clinica\sistemaclinica - final\hora.cpp
+	<iostream>
+	<limits>
+	"hora.h"
+
+1697825389 c:\users\pedro\downloads\+\sistema clinica\sistemaclinica - final\hora.h
+
+1700866124 source:c:\users\pedro\downloads\+\sistema clinica\sistemaclinica - final\main.cpp
+	<iostream>
+	<cstring>
+	<windows.h>
+	<limits>
+	"rlutil.h"
+	"altaTu_Me.h"
+	"subListas.h"
+	"subMenuBaja.h"
+	"subMenuModificar.h"
+	"consulta.h"
+	"subMenuReporte.h"
+
+1571584339 c:\users\pedro\downloads\+\sistema clinica\sistemaclinica - final\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1700742934 c:\users\pedro\downloads\+\sistema clinica\sistemaclinica - final\altatu_me.h
+	"archivoControladores.h"
+	"archivoControladoresEspecialista.h"
+
+1700777581 c:\users\pedro\downloads\+\sistema clinica\sistemaclinica - final\archivocontroladores.h
+	"paciente.h"
+	<iomanip>
+	"rlutil.h"
+
+1700099378 c:\users\pedro\downloads\+\sistema clinica\sistemaclinica - final\paciente.h
+	"persona.h"
+	"turno.h"
+
+1700089673 c:\users\pedro\downloads\+\sistema clinica\sistemaclinica - final\turno.h
+	"hora.h"
+	"fecha.h"
+
+1701014585 c:\users\pedro\downloads\+\sistema clinica\sistemaclinica - final\archivocontroladoresespecialista.h
+	"especialista.h"
+
+1700775532 c:\users\pedro\downloads\+\sistema clinica\sistemaclinica - final\sublistas.h
+	"listadosControladores.h"
+	"listadosControlaTurno2.h"
+
+1700772043 c:\users\pedro\downloads\+\sistema clinica\sistemaclinica - final\listadoscontroladores.h
+	"archivoClassPacientess.h"
+	"paciente.h"
+
+1699991909 c:\users\pedro\downloads\+\sistema clinica\sistemaclinica - final\archivoclasspacientess.h
+
+1700928548 c:\users\pedro\downloads\+\sistema clinica\sistemaclinica - final\listadoscontrolaturno2.h
+	"archivoClassEspecialista.h"
+	"especialista.h"
+	"archivoClassPacientess.h"
+	"paciente.h"
+
+1700005808 c:\users\pedro\downloads\+\sistema clinica\sistemaclinica - final\archivoclassespecialista.h
+
+1700743094 c:\users\pedro\downloads\+\sistema clinica\sistemaclinica - final\submenubaja.h
+	"archivoControladores.h"
+	"archivoControladoresEspecialista.h"
+
+1700743215 c:\users\pedro\downloads\+\sistema clinica\sistemaclinica - final\submenumodificar.h
+	"archivoControladores.h"
+	"archivoControladoresEspecialista.h"
+
+1700742628 c:\users\pedro\downloads\+\sistema clinica\sistemaclinica - final\consulta.h
+	"listadosControlaTurno2.h"
+
+1700743557 c:\users\pedro\downloads\+\sistema clinica\sistemaclinica - final\submenureporte.h
+	"reporteControladores.h"
+
+1700337548 c:\users\pedro\downloads\+\sistema clinica\sistemaclinica - final\reportecontroladores.h
+	"archivoClassEspecialista.h"
+	"especialista.h"
+	"archivoClassPacientess.h"
+	"paciente.h"
+
+1700777939 source:c:\users\pedro\downloads\+\sistema clinica\sistemaclinica - final\paciente.cpp
+	<iostream>
+	<cstring>
+	<limits>
+	<iomanip>
+	"rlutil.h"
+	"paciente.h"
+	"archivoClassPacientess.h"
+	"especialista.h"
+	"archivoClassEspecialista.h"
+
+1700769779 source:c:\users\pedro\downloads\+\sistema clinica\sistemaclinica - final\turno.cpp
+	<iostream>
+	<cstring>
+	"turno.h"
+	"paciente.h"
+	"archivoClassPacientess.h"
+	"especialista.h"
+	"archivoClassEspecialista.h"
+
